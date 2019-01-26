@@ -1,0 +1,24 @@
+﻿<Window x:Class="GameData.View.LootEditor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:VM="clr-namespace:GameData.ViewModels"
+        xmlns:local="clr-namespace:GameData.View"
+
+        mc:Ignorable="d"
+        Title="MainWindow" Height="auto" Width="auto">
+    <Window.Resources>
+        <SolidColorBrush x:Key="clBr" Color="LightGray" />
+
+    </Window.Resources>
+    <DockPanel>
+        <Button Margin="5" DockPanel.Dock="Bottom" Content="Convert to Shield" Background="Peru" Command="local:LootEditorCommands.ConvertToShield" CommandParameter="{x:Static local:LootEditor.MagicAxe}" />
+        <Border Name ="myBorder" BorderBrush="Black" BorderThickness="3">
+
+            <Grid Width="auto">
+                <ItemsControl ItemsSource="{Binding OCUserControls}"/>
+            </Grid>
+        </Border>
+    </DockPanel>
+</Window>

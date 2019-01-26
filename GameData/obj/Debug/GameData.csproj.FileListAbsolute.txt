@@ -1,0 +1,64 @@
+I:\WPF - Projects\LootDataGrid\GameData\bin\Debug\GameData.exe.config
+I:\WPF - Projects\LootDataGrid\GameData\bin\Debug\GameData.exe
+I:\WPF - Projects\LootDataGrid\GameData\bin\Debug\GameData.pdb
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData.csprojAssemblyReference.cache
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\Views\CustomCheckBox.g.cs
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\Views\CustomTextBox.g.cs
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\Views\CustomComboBox.g.cs
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\Views\LootEditor.g.cs
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\App.g.cs
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData_MarkupCompile.cache
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData_MarkupCompile.lref
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\Views\CustomCheckBox.baml
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\Views\CustomTextBox.baml
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\Views\CustomComboBox.baml
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\Views\LootEditor.baml
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData.g.resources
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData.Properties.Resources.resources
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData.csproj.GenerateResource.cache
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData.csproj.CoreCompileInputs.cache
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData.exe
+I:\WPF - Projects\LootDataGrid\GameData\obj\Debug\GameData.pdb
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\bin\Debug\GameData.exe.config
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\bin\Debug\GameData.exe
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\bin\Debug\GameData.pdb
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\Views\CustomCheckBox.g.cs
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\Views\CustomTextBox.g.cs
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\Views\CustomComboBox.g.cs
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\Views\LootEditor.g.cs
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\App.g.cs
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GameData_MarkupCompile.cache
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GameData_MarkupCompile.lref
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\Views\CustomCheckBox.baml
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\Views\CustomTextBox.baml
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\Views\CustomComboBox.baml
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\Views\LootEditor.baml
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GameData.g.resources
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GameData.Properties.Resources.resources
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GameData.csproj.GenerateResource.cache
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GameData.csproj.CoreCompileInputs.cache
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GameData.exe
+C:\Users\pkondapuram\Downloads\Yooooooo\GameData\obj\Debug\GameData.pdb
+C:\Users\pkondapuram\Downloads\NewTry\GameData\bin\Debug\GameData.exe.config
+C:\Users\pkondapuram\Downloads\NewTry\GameData\bin\Debug\GameData.exe
+C:\Users\pkondapuram\Downloads\NewTry\GameData\bin\Debug\GameData.pdb
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\Views\CustomCheckBox.g.cs
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\Views\CustomTextBox.g.cs
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\Views\CustomComboBox.g.cs
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\Views\LootEditor.g.cs
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\App.g.cs
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData_MarkupCompile.cache
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData_MarkupCompile.lref
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\Views\CustomCheckBox.baml
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\Views\CustomTextBox.baml
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\Views\CustomComboBox.baml
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\Views\LootEditor.baml
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData.g.resources
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData.Properties.Resources.resources
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData.csproj.GenerateResource.cache
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData.csproj.CoreCompileInputs.cache
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData.exe
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData.pdb
+C:\Users\pkondapuram\Downloads\NewTry\GameData\obj\Debug\GameData.csprojAssemblyReference.cache
